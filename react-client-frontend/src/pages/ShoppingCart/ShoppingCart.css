@@ -1,0 +1,45 @@
+
+.shopping-cart{
+    margin-bottom: 50px;
+}
+.cart__total {
+    background: #ecf2f5;
+    padding: 30px 30px 30px;
+}
+
+.cart__total h6 {
+    color: #111111;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    font-weight: 900;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #2123bf;
+}
+
+.cart__total ul {
+    margin-bottom: 20px;
+}
+
+.cart__total ul li {
+    list-style: none;
+    font-size: 16px;
+    color: #444444;
+    line-height: 40px;
+    overflow: hidden;
+}
+
+.cart__total ul li span {
+    color: red;
+    float: right;
+}
+
+.cart__total .primary-btn {
+    display: block;
+    padding: 12px 10px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.spad {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
